@@ -1,0 +1,14 @@
+{
+  "name": "js-workspace",
+  "version": "1.0.0",
+  "description": "A demo to create javascript workspace.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "author": "Yae Li",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
